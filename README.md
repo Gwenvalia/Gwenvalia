@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gwenvalia or Léa Baradeau
-- 👀 I’m interested in improving ma coding skills
+- 👀 I’m interested in improving my coding skills
 - 🌱 I’m currently learning web development (Java, HTML, CSS, JS, PHP, SQL, NoSQL)
 - 📫 How to reach me @lea_baradeau in linkedin
 - 😄 Pronouns: she/her
